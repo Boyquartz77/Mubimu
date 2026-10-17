@@ -1,0 +1,6 @@
+{
+  "name": "Mubimu Timer - Emoji Contrarreloj",
+  "description": "Temporizador interactivo con emoji expresivo que se frustra contrarreloj, voz 'mubimu', alarmas personalizadas y estadísticas diarias de productividad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
